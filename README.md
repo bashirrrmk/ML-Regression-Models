@@ -77,7 +77,7 @@ Logistic Regression
 ## Project Structure
 
 ```
-ml-regression-vs-classification
+ml-regression-models
 │
 ├── regression_vs_classification.ipynb
 ├── README.md
